@@ -1,2 +1,3 @@
-![Banner](./banner.png)
-
+<p align="center">
+  <img src="./banner.png" width="600" />
+</p>
