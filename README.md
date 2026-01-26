@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" width="600" />
-</p>
-
 <h1 align="center">Hi 👋 I'm Adel</h1>
 <p align="center">
   Full Stack Developer • React • Node.js • Firebase <br/>
