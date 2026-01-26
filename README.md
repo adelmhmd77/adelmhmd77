@@ -25,18 +25,3 @@ const adel = {
   tools: ["Git", "GitHub", "VS Code"],
   learning: ["System Design", "Advanced Backend"]
 };
-
-
----
-
-## 📊 GitHub Stats
-```md
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
-
-### 📫 Connect With Me
-- GitHub: [https://github.com/adelmhmd77]
-- Portfolio: coming soon 🚧
