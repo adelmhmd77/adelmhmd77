@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for Adel Mohammed (customized from portfolio) -->
+<!-- GitHub Profile README for Adel Mohammed -->
 
 <div align="center">
 
@@ -9,9 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=111827&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;React+Developer;SEO+Specialist;Building+fast,+search-friendly+web+apps" alt="Typing SVG" />
 
 <p>
-	<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-	<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://adel-mhmd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+	<a href="https://www.linkedin.com/in/adel-mohammed-7122b33a3/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:am3507962@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -43,17 +43,64 @@ I'm a full-stack developer based in **Egypt**, building elegant, responsive web 
 
 ---
 
+## Experience
+
+**SEO Specialist** · BDE Experts · United Arab Emirates · Remote · Full-time
+`Aug 2025 — Present`
+Managing SEO across multiple websites, generating leads, and driving organic growth through content and on-page optimization.
+`Web Content Writing` `On-Page Optimization` `SEO`
+
+**SEO Specialist** · DAMAS TÜRK® Real Estate · Istanbul, Türkiye · Remote · Full-time
+`Oct 2024 — Jun 2025`
+Optimized website performance and keyword rankings through on-page, technical, and content-focused SEO strategies.
+`SEO` `On-Page SEO` `Technical SEO`
+
+**Full Stack Web Developer** · Sukna Blog · Istanbul, Türkiye · Remote · Freelance
+`Sep 2025 — Jun 2026`
+Built and maintained full-stack features across the platform, contributing to ongoing development and site maintenance.
+`Full-Stack`
+
+**Web Developer** · Tawajod Software House · United Arab Emirates · Remote · Freelance
+`Aug 2025 — Jan 2026`
+Built and managed WordPress websites with custom code enhancements, plus a focus on identifying and mitigating security vulnerabilities.
+`WordPress` `HTML/CSS/JS` `Cybersecurity`
+
+**SEO Specialist** · Venos · Saudi Arabia · Remote · Freelance
+`Jun 2025 — Sep 2025`
+Improved online visibility through targeted SEO strategies, keyword targeting, and performance tracking that drove higher traffic and sales.
+`SEO` `E-Commerce`
+
+**Full Stack Web Developer** · Segment101 · Istanbul, Türkiye · Remote · Full-time
+`May 2023 — Jun 2026`
+Developed and maintained responsive, high-performance web applications with clean, scalable code.
+`MongoDB` `Express.js` `React` `Node.js`
+
+---
+
 ## Featured Projects
 
+### Web Apps
 | Project | Description | Tech |
 |---|---|---|
-| **[LinguaLearn – Language Platform](#)** | Interactive language-learning SaaS with tutors, learning paths & pricing tiers | `React` `Node` |
-| **[TripNest – Travel Booking](#)** | Travel booking platform with curated packages and a newsletter system | `HTML5` `CSS3` |
-| **[Lunara – Fashion Store](#)** | Full-featured modest fashion e-commerce store built on WordPress/WooCommerce | `WordPress` `WooCommerce` |
-| **[Horizon Dental – Local SEO](#)** | Local SEO overhaul for a US dental clinic — audit, on-page, Google Business | `SEO` `Local SEO` |
-| **[NileTrade – E-commerce SEO](#)** | Technical & on-page SEO for a growing Egyptian e-commerce store | `SEO` `Technical SEO` |
+| **Sukna Blog** | Full-stack real estate blog platform with a modern CMS, SEO-optimized architecture, dynamic property/blog content, and a scalable backend | `Next.js` `TypeScript` `Supabase` `SQL` `PostgreSQL` |
+| **Competitor Blog Analyzer** | SEO platform that analyzes your blog vs. competitors to uncover content gaps, keyword opportunities, and missing topics | `Next.js` `TypeScript` `Supabase` `SQL` `SEO` |
+| **Cluster Forge** | Content clustering tool that groups keywords/topics into structured, pillar-driven content clusters | `Next.js` `TypeScript` `SEO` `Content Clustering` |
 
-*(Replace the `#` links above with your live project URLs or repo links.)*
+### WordPress
+| Project | Description | Tech |
+|---|---|---|
+| **Al Tawfik** | Corporate WordPress site with a clean, responsive interface, optimized for search performance | `WordPress` `Technical SEO` `Performance` |
+| **Mal Hariri** | Professional WordPress business site with a modern layout and SEO best practices | `WordPress` `Responsive Design` `UI/UX` |
+| **The Online Quran Classes** | WordPress-based e-learning platform with course pages, tutor profiles, and student enrollment | `WordPress` `Elementor` `Technical SEO` |
+
+### SEO (In Progress)
+| Client | Focus |
+|---|---|
+| **UAE – Private Notary Services** | Local & technical SEO, service page optimization, and lead generation for a UAE notary firm |
+| **UAE – Notary & Legal Documentation** | Technical SEO, keyword targeting, and content strategy for a UAE legal documentation provider |
+| **Saudi Arabia – Air Conditioning Services** | Local SEO and service page optimization for a Saudi AC installation/maintenance company |
+
+*(See live previews and full case studies on my [portfolio](https://adel-mhmd.vercel.app/).)*
 
 ---
 
@@ -61,10 +108,10 @@ I'm a full-stack developer based in **Egypt**, building elegant, responsive web 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" height="165" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=adelmhmd77&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=adelmhmd77&theme=dark&hide_border=true" height="165" alt="Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmhmd77&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
 
 </div>
 
@@ -74,23 +121,13 @@ I'm a full-stack developer based in **Egypt**, building elegant, responsive web 
 
 <div align="center">
 
-📍 Egypt · ✉️ your@email.com · 💼 Full-Stack Development & SEO
+📍 Egypt · ✉️ am3507962@gmail.com · 📱 +20 112 914 2737 · 💼 Full-Stack Development & SEO
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://facebook.com/your-facebook"><img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/adel-mohammed-7122b33a3/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/adel.mohammed.393460"><img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/adel.mhmd77/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/adelmhmd77"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <sub>© 2026 Adel Mohammed — All Rights Reserved</sub>
 
 </div>
-
----
-
-If you'd like, I can:
-
-- Replace placeholder links with your real portfolio, LinkedIn and GitHub usernames
-- Generate images/badges with your real GitHub username
-- Add a short projects section linking directly to deployed sites or repos
-
-To edit these placeholders, open `README.md` and replace `your-portfolio-url`, `your-linkedin`, `your-github-username`, and email.
