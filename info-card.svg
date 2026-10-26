@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="340" viewBox="0 0 490 340">
+<style>
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:12.5px;white-space:pre}
+.k{fill:#58a6ff;font-weight:bold}.v{fill:#c9d1d9}.h{fill:#3fb950;font-weight:bold}.d{fill:#6e7681}
+.l{opacity:0;animation:in .35s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+</style>
+<rect x=".5" y=".5" width="489" height="339" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 10.5a10 10 0 0 1 10-10h469a10 10 0 0 1 10 10V32H.5z" fill="#161b22"/>
+<circle cx="20" cy="17" r="5.5" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="5.5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5.5" fill="#27c93f"/>
+<text x="245.0" y="21" text-anchor="middle" class="d">adel@github: ~ — neofetch</text>
+<text x="24" y="52" class="l" style="animation-delay:0.15s"><tspan class="k">name    </tspan><tspan class="v">Adel Mohammed</tspan></text>
+<text x="24" y="70" class="l" style="animation-delay:0.27s"><tspan class="k">role    </tspan><tspan class="v">Full-Stack Developer · SEO Specialist</tspan></text>
+<text x="24" y="88" class="l" style="animation-delay:0.39s"><tspan class="k">where   </tspan><tspan class="v">Istanbul, Turkey · Cairo, Egypt</tspan></text>
+<text x="24" y="106" class="l" style="animation-delay:0.51s"><tspan class="k">status  </tspan><tspan class="v">Open to freelance &amp; full-time roles</tspan></text>
+<text x="24" y="133" class="h l" style="animation-delay:0.63s">── stack ──────────────</text>
+<text x="24" y="151" class="l" style="animation-delay:0.75s"><tspan class="k">front   </tspan><tspan class="v">Next.js · React · TypeScript · Tailwind</tspan></text>
+<text x="24" y="169" class="l" style="animation-delay:0.87s"><tspan class="k">back    </tspan><tspan class="v">Node.js · Express</tspan></text>
+<text x="24" y="187" class="l" style="animation-delay:0.99s"><tspan class="k">data    </tspan><tspan class="v">PostgreSQL · Supabase · MongoDB · Firebase</tspan></text>
+<text x="24" y="205" class="l" style="animation-delay:1.11s"><tspan class="k">cms     </tspan><tspan class="v">WordPress</tspan></text>
+<text x="24" y="232" class="h l" style="animation-delay:1.23s">── highlights ──────────────</text>
+<text x="24" y="250" class="l" style="animation-delay:1.35s"><tspan class="k">shipped </tspan><tspan class="v">20+ websites built</tspan></text>
+<text x="24" y="268" class="l" style="animation-delay:1.47s"><tspan class="k">seo     </tspan><tspan class="v">10+ SEO projects managed</tspan></text>
+<text x="24" y="286" class="l" style="animation-delay:1.59s"><tspan class="k">speed   </tspan><tspan class="v">New articles indexed within 48 hrs</tspan></text>
+</svg>
