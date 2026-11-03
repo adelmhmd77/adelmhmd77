@@ -20,6 +20,6 @@
 
 **20+** websites built &nbsp;·&nbsp; **10+** SEO projects managed &nbsp;·&nbsp; New articles indexed within **48 hrs**
 
-📍 Istanbul, Turkey · Cairo, Egypt &nbsp;·&nbsp; 💼 Open to freelance and full-time roles
+📍 Cairo, Egypt &nbsp;·&nbsp; 💼 Open to freelance and full-time roles
 
 </div>
