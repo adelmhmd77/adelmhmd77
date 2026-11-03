@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://adel-mhmd.vercel.app/"><img src="assets/hero.svg" alt="Explore my portfolio — Adel Mohammed, SEO & Full-Stack Developer" width="100%"/></a>
+<a href="https://adel-mhmd.vercel.app/"><img src="./hero.svg" alt="Explore my portfolio — Adel Mohammed, SEO & Full-Stack Developer" width="100%"/></a>
 
 <br/>
 
