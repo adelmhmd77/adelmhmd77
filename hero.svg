@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-label="Explore my portfolio - Adel Mohammed, SEO and full-stack developer">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c4c4c4"/><stop offset="1" stop-color="#8f8f8f"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6a6a6a"/><stop offset="1" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <style>
+      text{font-family:Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+      .nav{font-size:13px;fill:#111}
+      .h{font-weight:800;letter-spacing:-6px}
+      .cap{font-size:11px;font-weight:700;letter-spacing:2.5px;fill:#111}
+      .desc{font-size:15px;fill:#777}
+      .svc{font-size:16px;fill:#111;text-anchor:end}
+      .rule{stroke:#e2e2e2;stroke-width:1}
+    </style>
+  </defs>
+  <rect width="1000" height="620" rx="26" fill="#ebebeb"/>
+  <rect x="14" y="14" width="972" height="592" rx="26" fill="#fff"/>
+
+  <!-- nav pill -->
+  <rect x="270" y="38" width="460" height="38" rx="19" fill="none" stroke="#e2e2e2"/>
+  <rect x="274" y="42" width="58" height="30" rx="15" fill="#111"/>
+  <text class="nav" x="303" y="62" text-anchor="middle" fill="#fff" style="fill:#fff">Home</text>
+  <text class="nav" x="372" y="62" text-anchor="middle">About</text>
+  <text class="nav" x="450" y="62" text-anchor="middle">Experience</text>
+  <text class="nav" x="536" y="62" text-anchor="middle">Projects</text>
+  <text class="nav" x="610" y="62" text-anchor="middle">Blog</text>
+  <text class="nav" x="676" y="62" text-anchor="middle">Contact</text>
+
+  <!-- headline -->
+  <text class="h" x="500" y="210" font-size="132" text-anchor="middle" fill="url(#g1)" textLength="880" lengthAdjust="spacingAndGlyphs">EXPLORE MY</text>
+  <text class="h" x="500" y="338" font-size="132" text-anchor="middle" fill="url(#g2)" textLength="800" lengthAdjust="spacingAndGlyphs">PORTFOLIO</text>
+
+  <!-- left block -->
+  <circle cx="86" cy="430" r="34" fill="none" stroke="#111"/>
+  <path d="M77 421 L95 439 M95 427 V439 H83" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="cap" x="52" y="506">SEO &amp; FULL-STACK EST. 2023</text>
+  <text class="desc" x="52" y="540">SEO specialist and full-stack developer. I build</text>
+  <text class="desc" x="52" y="563">websites that are well-engineered and genuinely</text>
+  <text class="desc" x="52" y="586">findable.</text>
+
+  <!-- right block: services -->
+  <g>
+    <text class="svc" x="948" y="400">Technical SEO</text><line class="rule" x1="760" x2="948" y1="410" y2="410"/>
+    <text class="svc" x="948" y="435">Programmatic SEO</text><line class="rule" x1="760" x2="948" y1="445" y2="445"/>
+    <text class="svc" x="948" y="470">SEO Automation</text><line class="rule" x1="760" x2="948" y1="480" y2="480"/>
+    <text class="svc" x="948" y="505">Full-Stack Development</text><line class="rule" x1="760" x2="948" y1="515" y2="515"/>
+    <text class="svc" x="948" y="540">WordPress Development</text><line class="rule" x1="760" x2="948" y1="550" y2="550"/>
+    <text class="svc" x="948" y="575">Python for SEO</text>
+  </g>
+</svg>
