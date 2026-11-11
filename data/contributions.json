@@ -1,8 +1,8 @@
 {
  "user": "adelmhmd77",
- "total": 528,
- "current_streak": 7,
- "longest_streak": 7,
+ "total": 529,
+ "current_streak": 8,
+ "longest_streak": 8,
  "best_day": {
   "date": "2026-09-19",
   "level": 4,
@@ -21,7 +21,7 @@
   "2026-08": 52,
   "2026-09": 71,
   "2026-10": 75,
-  "2026-11": 31
+  "2026-11": 32
  },
  "days": [
   {
@@ -1856,6 +1856,11 @@
   },
   {
    "date": "2026-11-10",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-11",
    "level": 0,
    "count": 0
   }
